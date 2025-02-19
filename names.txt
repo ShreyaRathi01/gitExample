@@ -1,1 +1,2 @@
 boss,srathi3,Rathi,Shreya
+employee,ssaji2,saji,sanjit
